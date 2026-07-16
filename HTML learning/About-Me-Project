@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>About Me</title>
+    </head>
+    <body>
+    <h1>About Me</h1>
+    <h4>Name: MJ Navya<br>
+        Education:BE CSE(Cybersecurity)<br>
+        Age:19</h4>
+        <p><strong>Short Introduction</strong><br>
+        I am Navya, a 3rd year Computer Science student specializing in cybersecurity. I am currently learning full stack development while pursuing dance as my long-term passion.</p>
+        <ul><b>Interests</b>
+        <li>Cooking</li>
+        <li>Reading</li>
+        <li>Dance</li>
+        <li>Journaling</li></ul>
+        <ol><b>Current Learning</b>
+        <li>Full Stack</li>
+        <li>Dance(Hiphop)</li>
+        </ol>
+        <ul><b>Goals</b>
+        <li>Full stack developer</li>
+        <li>Dancer and learner</li>
+        <li>Cloud migration security specialist </li>
+        </ul>
+        <h3>Contact</h3>
+        <p>Phone number: 9876543219</p>
+        <a href="mailto: mjnavya21@gmail.com">Email:mjnavya21@gmail.com</a>
+    </body>
+</html>
