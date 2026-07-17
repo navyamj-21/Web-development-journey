@@ -1,0 +1,84 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+    <title>Pasta Recipe</title>
+    </head>
+    <body>
+    <h1>White Sauce Pasta Recipe</h1>
+    <img src="https://www.indianveggiedelight.com
+              /white-sauce-pasta/">
+    <br><br><p> White Sauce Pasta is a rich, creamy and 
+        comforting dish amde by tossing cooked 
+        pasta in a smooth white colour sauce. 
+        It is savory,slightly garlicky and mildly 
+        peppery with a rich buttery depth.</p>
+        <h3>Ingredients</h3>
+        <ul>
+        <li>
+            Pasta(100g)
+            </li>
+        <li>
+            Butter(2 tablespoons)</li>
+        <li>All purpose flour(2-3 tablespoons)</li>
+        <li>Milk(2 cups)</li>
+        <li>Garlic(1-2 teaspoons)</li>
+        <li>Onion(small 1 no.)</li>
+        <li>Vegetables(eg:mushrooms,corn,capsicum,carrot etc)</li>
+        <li>Oregano(1/2 teaspoon)</li>
+        <li>Cheese(2-3 tablespoon grated)</li>
+        <li>Chilli flakes and black pepper(1/2 teaspoon)</li>
+        <li>Salt to taste</li>
+        <li>Water(As required)</li></ul>
+        <h3>Steps to make white sauce pasta</h3>
+        <ol>
+        <h4>Boil Pasta:</h4>
+        <li>Boil 100g of apsta with water. Add a teaspoon of salt to it.</li>
+        <li>Let it cook for about 7-9 minutes.</li>
+        <li>Drain the pasta and toss it with some olive/refined oil so it doesn't stick.</li>
+        </ol>
+        <h4>Saute the vegetables:</h4>
+        <ol>
+        <li>Heat a tablespoon of oil and add 1 teaspoon of butter in a pan.</li>
+        <li>Add chooped garlic and saute until it turns golden.</li>
+        <li>Add chopped onions and let it cook.</li>
+        <li>Add preferred veggies and saute for 2-3 mins. They should remain slightly crunchy. Add salt and pepper. Remove the veggies and place them aside.</li>
+        </ol>
+        <h4>Prepare the sauce:</h4>
+        <ol>
+        <li>In the same pan, melt 2 tablespoons of butter and add all-purpose flour.</li>
+        <li>Whisk until the flour froths and raw smell disappears.</li>
+        <li>Slow the heat and add milk slowly. Whisk it continuously to prevent any lumps.</li>
+        <li>The sauce slowly thickens.</li>
+        <li>Now add your seasonings(black pepper,oregano,chilli flakes and salt to taste).</li>
+        <li>Add cheese to the sauce and stir until creamy.</li>
+        <li>Add veggies and pasta to it.</li>
+        <li>Cook on low flame for 2mins and then our white sauce pasta is ready!</li>
+        </ol>
+        <h3>Nutrition Table</h3>
+        <table cellspacing="20" border=10>
+        <tr>
+            <td>Nutrient</td>
+            <td>Amount per serving(200g)</td></tr>
+        <tr>
+            <td>Calories</td>
+            <td>500kCal</td></tr>
+        <tr>
+            <td>Carbohydrates</td>
+            <td>46g</td></tr>
+        <tr>
+            <td>Fat</td>
+            <td>31g</td></tr>
+        <tr>
+            <td>Protein</td>
+            <td>12g</td></tr>
+        <tr>
+            <td>Fiber</td>
+            <td>2.5g</td></tr>
+        </table>
+        <h3>Preparation Time</h3>
+        <p>10mins for chopping, grating and measuring the ingredients.</p>
+        <p>15-20mins cooking time.</p>
+        <p>Overall time:30-35mins</p>
+        <button>Print Recipe</button>
+        </body>
+</html>
