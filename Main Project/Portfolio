@@ -1,1 +1,73 @@
-
+<!DOCTYPE>
+<html lang="en">
+    <head><title>Portfolio</title>
+    </head>
+    <body
+        ><h1>Portfolio</h1>
+        <p>MJ Navya</p>
+        <p>Aspiring Full Stack Developer</p>
+        <h3>About Me</h3>
+        <p>I am Navya, currently pursuing my 3rd 
+        year engineering in Peri Institute of 
+        Technology. I am a Computer Science
+        student with specialization in Cybersecurity.
+        I'm currently learning Full Stack Development 
+        and I enjoy building projects to strengthen my 
+        understanding of web technologies. Alongside 
+        technology, I'm also passionate about dance and 
+        believe in continuous learning.</p>
+        <h3>Education</h3>
+        <table border="10" cellspacing="20">
+        <tr>
+            <th>Qualification</th>
+            <th>Institution</th>
+            <th>Status</th>
+            </tr>
+        <tr>
+            <td>BE CSE(Cybersecurity)</td>
+            <td>Peri Institute Of Technology</td>
+            <td>Pursuing</td>
+            </tr>
+        </table>
+        <p></p>
+        <h3>Skills</h3>
+        <h5>Technical Skills:</h5>
+        <ul>
+        <li>HTML</li>
+        <li>Basic github</li>
+        <li>Basic linux</li></ul>
+        <h5>Currently learning:</h5>
+        <ul><li>CSS</li>
+        <li>Full Stack Development</li>
+        <li>Cybersecurity Fundamentals</li>
+        </ul>
+        <h3>Current Learning</h3>
+        <H5>Current Focus:</H5>
+        <ol><li>HTML</li>
+        <li>CSS</li>
+        <li>Building practical projects</li>
+        <li>Improving problem-solving</li>
+        </ol>
+        <h3>Projects</h3>
+        <table cellspacing="20">
+        <tr><th>Project</th>
+            <th>Description</th>
+            </tr>
+        <tr><td>About Me</td>
+            <td>A personal webpage using HTML</td>
+        </tr>
+        <tr><td>Recipe Website</td>
+            <td>HTML page recipe with tables and lists</td>
+            </tr>
+        <tr><td>Portfolio</td>
+            <td>Currently in HTML but will update it with the concepts I further learn</td></tr></table>
+        <h3>Goals</h3>
+        <ul><li>Complete my Full Stack course</li>
+        <li>Build practical web projects</li>
+        <li>Strengthen cybersecurtiy fundamentals</li>
+        <li>Create a professional portfolio</li></ul>
+        <h4>Contact</h4>
+        <ul><li>Email: mjnavya21@gmail.com</li>
+            <li>Github: <a href="https://github.com/navyamj-21">https://github.com/navyamj-21</a></li></ul>
+    </body>
+</html>
