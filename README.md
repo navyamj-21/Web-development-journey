@@ -5,3 +5,5 @@ I have created a respository "Web development journey" and a folder names "HTML"
 26/7/2026:
 I did learn about HTML concepts and completed it, meaning now I know how to write a html code with tags. 
 Started learning CSS and now I uploaded a project "Favourite Music" where I applied basic CSS concepts. As I learn more in this, I'll be doing projects to make sure that I'm confortable with learning practically. 
+2/08/26:
+Learnt intermediate CSS from which I learnt about combinators, grouping, text styling, background. 
